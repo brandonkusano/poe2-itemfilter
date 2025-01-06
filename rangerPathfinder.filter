@@ -1,0 +1,213 @@
+#Show
+#Hide
+#SetTextColor
+#SetBackgroundColor
+#SetFontSize
+#PlayAlertSound
+#PlayEffect
+#ItemLevel
+#Sockets
+#BaseType
+#Class
+#Quality
+#AnyEnchantment
+#MinimapIcon
+#HasExplicitMod
+#HasEnchantment
+
+Show 
+	BaseType "Uncut Skill Gem" "Uncut Support Gem" "Uncut Spirit Gem"
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	BaseType " Rune"
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	BaseType "Simulacrum" "Breachstone" "Cowardly Fate" "Deadly Fate" "Victorious Fate" "Expedition Logbook" "Test of"
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	BaseType "Tablet"
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	BaseType "Barya" "Ultimatum"
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	BaseType "Suede Bracers" "Firm Bracers" "Bound Bracers" "Sectioned Bracers" "Spined Bracers" "Advanced Firm Bracers" "Fine Bracers" "Advanced Bound Bracers" "Advanced Spined Bracers"
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	BaseType "Shabby Hood" "Felt Cap" "Lace Hood" "Swathed Cap" "Hunter Hood" "Viper Cap" "Advanced Shabby Hood" "Advanced Felt Cap" "Advanced Lace Hood" "Advanced Swathed Cap" "Advanced Hunter Hood" "Expert Felt Cap" "Expert Swathed Cap" "Expert Hunter Hood"
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	BaseType "Rawhide Boots" "Laced Boots" "Embossed Boots" "Steeltoe Boots" "Lizardscale Boots" "Advanced Laced Boots" "Advanced Embossed Boots" "Advanced Steeltoe Boots" "Advanced Lizardscale Boots"
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+
+Show 
+	BaseType "Leather Vest" "Quilted Vest" "Pathfinder Coat" "Shrouded Vest" "Rhoahide Coat" "Studded Vest" "Scout's Vest" "Serpentscale Coat" "Advanced Quilted Vest" "Advanced Pathfinder Coat" "Advanced Rhoahide Coat" "Advanced Studded Vest" "Advanced Scout's Vest" "Advanced Serpentscale Coat" "Expert Pathfinder Coat" "Expert Studded Vest" "Expert Serpentscale Coat"
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Class == Bows
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+
+Show
+	Class Quiver
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Quality > 0
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	Rarity > Magic
+	SetBackgroundColor 76 0 153
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Purple
+
+Show 
+	Sockets > 0
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	Class Currency
+	SetBackgroundColor 255 51 51
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+
+Show
+	Class Pinnacle Keys
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Class Charms
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Class Jewels
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	Class Rings
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	Class Amulets
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	Class Belts
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Hide 
+	Rarity Normal

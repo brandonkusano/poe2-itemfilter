@@ -1,0 +1,243 @@
+#Show
+#Hide
+#SetTextColor
+#SetBackgroundColor
+#SetFontSize
+#PlayAlertSound
+#PlayEffect
+#ItemLevel
+#Sockets
+#BaseType
+#Class
+#Quality
+#AnyEnchantment
+#MinimapIcon
+#HasExplicitMod
+#HasEnchantment
+
+Show 
+	BaseType "Uncut Skill Gem" "Uncut Support Gem" "Uncut Spirit Gem"
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	BaseType " Rune"
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	BaseType "Simulacrum" "Breachstone" "Cowardly Fate" "Deadly Fate" "Victorious Fate" "Expedition Logbook" "Test of"
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	BaseType "Tablet"
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	BaseType "Barya" "Ultimatum"
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	BaseType "Stocky Mitts" "Riveted Mitts" "Tempered Mitts" "Bolstered Mitts" "Moulded Mitts" "Advanced Riveted Mitts" "Advanced Tempered Mitts" "Advanced Bolstered Mitts" "Advanced Moulded Mitts" "Expert Riveted Mitts"
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	BaseType "Rusted Greathelm" "Soldier Greathelm" "Wrapped Greathelm" "Spired Greathelm" "Elite Greathelm" "Warrior Greathelm" "Advanced Rusted Greathelm" "Advanced Soldier Greathelm" "Advanced Wrapped Greathelm" "Advanced Spired Greathelm" "Advanced Elite Greathelm" "Expert Soldier Greathelm" "Expert Spired Greathelm" "Expert Elite Greathelm"
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	BaseType "Rough Greaves" "Iron Greaves" "Bronze Greaves" "Trimmed Greaves" "Stone Greaves" "Advanced Iron Greaves" "Advanced Bronze Greaves" "Advanced Trimmed Greaves" "Advanced Stone Greaves" "Expert Iron Greaves" "Expert Trimmed Greaves" "Expert Stone Greaves"
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	BaseType "Fur Plate" "Rusted Cuirass" "Iron Cuirass" "Raider Plate" "Maraketh Cuirass" "Steel Plate" "Full Plate" "Vaal Cuirass" "Advanced Fur Plate" "Advanced Iron Cuirass" "Advanced Maraketh Cuirass" "Advanced Steel Plate" "Advanced Full Plate" "Advanced Vaal Cuirass" "Expert Iron Cuirass" "Expert Steel Plate" "Expert Vaal Cuirass"
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Class Shields
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Class One Hand Axes
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Class One Hand Maces
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Class Two Hand Axes
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Class Two Hand Maces
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Quality > 0
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	Rarity > Magic
+	SetBackgroundColor 76 0 153
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Purple
+
+Show 
+	Sockets > 0
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	Class Currency
+	SetBackgroundColor 255 51 51
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+
+Show
+	Class Pinnacle Keys
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Class Charms
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show
+	Class Jewels
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	Class Rings
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	Class Amulets
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Show 
+	Class Belts
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
+Hide	
+	Rarity Normal
