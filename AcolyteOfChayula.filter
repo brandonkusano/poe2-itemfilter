@@ -136,7 +136,6 @@ Show
 	PlayAlertSound 2 100
 	PlayEffect Green
 
-
 Show 
 	BaseType "Tattered Robe" "Feathered Robe" "Hexer's Robe" "Bone Raiment" "Silk Robe" "Keth Raiment" "Votive Raiment" "Altar Robe" "Advanced Feathered Robe" "Advanced Hexer's Robe" "Advanced Silk Robe" "Advanced Keth Raiment" "Advanced Votive Raiment" "Advanced Altar Robe" "Expert Hexer's Robe" "Expert Keth Raiment" "Expert Altar Robe"
 	Rarity > Normal
@@ -166,8 +165,6 @@ Show
 	PlayAlertSound 2 100
 	PlayEffect Green
 
-
-
 Show
 	Class Focus
 	SetBackgroundColor 15 205 21
@@ -177,19 +174,8 @@ Show
 	PlayAlertSound 2 100
 	PlayEffect Green
 
-
-
 Show
 	Quality > 0
-	SetBackgroundColor 15 205 21
-	SetTextColor 0 0 0
-	SetFontSize 45
-	MinimapIcon 2 Cyan Pentagon
-	PlayAlertSound 2 100
-	PlayEffect Green
-
-Show
-	AnyEnchantment True
 	SetBackgroundColor 15 205 21
 	SetTextColor 0 0 0
 	SetFontSize 45
