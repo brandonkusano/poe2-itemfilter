@@ -21,3 +21,15 @@ SIDENOTE: What if I can't code the item filter? Don't care. Each item filter is 
 The actual operation of changing your item filter for our case is easy. Just get the weapon you would like to filter and replace it with the weapon that I coded.
 If there are any problems then the game will tell you ("Item filter loaded successfully" is what we're looking for) and in some cases you might have to use youtube
 to solve your problem e.g Quarterstaves and Staves will actually conflict in the filter unless you use a specific operator (==).
+
+
+WEAPONFILTERADDED: A more user technical version of the item filter. We use "BaseType" instead of "Class" to filter our weapons. This looks cleaner in-game
+with all specified weapons (even whites) being pinged while weapons from the same class type are pinged to purple, regular blue, and hidden. The updated 
+filter is identical to the previous filters with the exception of a single line of "Class" being changed to "BaseType". 
+
+Example with previous filter : Class Wand
+
+Example with new filter : BaseType "Attuned Wand"
+
+Notice that in this example the user needs to know what weapon they are using (Build specific). I have released another item filter that uses "BaseType" 
+as an example. 
