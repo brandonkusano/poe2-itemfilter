@@ -209,5 +209,13 @@ Show
 	MinimapIcon 2 Cyan Pentagon
 
 Hide
+	BaseType "Scroll of Wisdom"
+	AreaLevel >= 69
+
+Show
+	Class Flask
+	AreaLevel <= 60
+
+Hide
 	Rarity Normal
 	AreaLevel >= 6

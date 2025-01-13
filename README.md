@@ -33,3 +33,5 @@ Example with new filter : BaseType "Attuned Wand"
 
 Notice that in this example the user needs to know what weapon they are using (Build specific). I have released another item filter that uses "BaseType" 
 as an example. 
+
+UPDATE: Small early game adjustment, flasks now always appear in campaign. Scroll of wisdom now turned off for high level areas (Slight end game adjustment).
