@@ -109,12 +109,25 @@ Show
 
 Show 
 	Class Belts
+	AreaLevel <= 15
 	SetBackgroundColor 15 205 21
 	SetTextColor 0 0 0
 	SetFontSize 45
 	MinimapIcon 2 Cyan Pentagon
 	PlayAlertSound 2 100
 	PlayEffect Green
+	Continue
+    Show
+	Class Belts
+	AreaLevel > 15
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
 
 Show 
 	BaseType "Twig Circlet" "Wicker Tiara" "Beaded Circlet" "Chain Tiara" "Feathered Tiara" "Gold Circlet" "Advanced Twig Circlet" "Advanced Wicker Tiara" "Advanced Beaded Circlet" "Advanced Chain Tiara" "Advanced Feathered Tiara" "Expert Wicker Tiara" "Expert Chain Tiara" "Expert Feathered Tiara"

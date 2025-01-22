@@ -213,12 +213,25 @@ Show
 
 Show 
 	Class Belts
+	AreaLevel <= 15
 	SetBackgroundColor 15 205 21
 	SetTextColor 0 0 0
 	SetFontSize 45
 	MinimapIcon 2 Cyan Pentagon
 	PlayAlertSound 2 100
 	PlayEffect Green
+	Continue
+    Show
+	Class Belts
+	AreaLevel > 15
+	Rarity > Normal
+	SetBackgroundColor 15 205 21
+	SetTextColor 0 0 0
+	SetFontSize 45
+	MinimapIcon 2 Cyan Pentagon
+	PlayAlertSound 2 100
+	PlayEffect Green
+
 
 Hide
 	BaseType "Scroll of Wisdom"
