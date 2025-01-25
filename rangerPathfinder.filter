@@ -209,8 +209,8 @@ Show
 	MinimapIcon 2 Cyan Pentagon
 	PlayAlertSound 2 100
 	PlayEffect Green
-	Continue
-    Show
+
+Show
 	Class Belts
 	AreaLevel > 15
 	Rarity > Normal
